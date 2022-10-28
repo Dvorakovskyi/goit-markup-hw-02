@@ -15,6 +15,7 @@
 .link {
   text-decoration: none;
 }
+/* Прихований заголовок */
 .visually-hidden {
   position: absolute;
   white-space: nowrap;
